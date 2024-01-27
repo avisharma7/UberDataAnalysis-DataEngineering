@@ -11,10 +11,11 @@ The goal of this project is to perform data analytics on Uber data using various
 - Programming Language - Python
 
 Google Cloud Platform
-1. Google Storage
-2. Compute Instance 
-3. BigQuery
-4. Looker Studio
+1. Google Storage - cloud storage
+2. Compute Instance - Virtual Machine
+3. BigQuery - Data Warehouse
+4. Looker Studio - creating report
+5. LucidChart for data modeling (Star Schema)
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
